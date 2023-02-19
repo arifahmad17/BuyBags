@@ -68,6 +68,5 @@ Admins can do the following:
 To Add ratings and reviev
 - Add review and ratings
 - To deploy
-- 
 ### If you like this repo,give a star 😊
  
