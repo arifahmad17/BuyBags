@@ -65,8 +65,9 @@ Admins can do the following:
 - View all the information stored in the database. They can view/add/edit/delete orders, users, products and categories. The cart model cannot be modified by an admin because a cart is either modified by the logged in user before the purchase or deleted after the purchase.
 
 ## Working
--To Add ratings and reviev
--To deploy
-
+To Add ratings and reviev
+- Add review and ratings
+- To deploy
+- 
 ### If you like this repo,give a star 😊
  
