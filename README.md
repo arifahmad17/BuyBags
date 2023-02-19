@@ -66,6 +66,7 @@ Admins can do the following:
 
 ## Working
 -To Add ratings and review
+-To deploy
 
 ### If you like this repo,give a star 😊
  
